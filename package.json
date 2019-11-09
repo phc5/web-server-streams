@@ -1,0 +1,19 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "https://www.codementor.io/ziad-saab/let-s-code-a-web-server-from-scratch-with-nodejs-streams-h4uc9utji",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phc5/web-server-streams.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phc5/web-server-streams/issues"
+  },
+  "homepage": "https://github.com/phc5/web-server-streams#readme"
+}
